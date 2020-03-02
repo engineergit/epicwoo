@@ -1,0 +1,136 @@
+.MuiAppBar-colorPrimary-9 {
+  background-color: transparent !important;
+  color: black !important;
+}
+.MasterHeader-root-78 {
+  height: 50px !important;
+  padding-top: 20px;
+}
+.MasterHeader-search-82 {
+  border: 1px solid black;
+}
+/* .MuiPaper-root-11{
+    height:0px !important;
+} */
+
+.links a {
+  color: white;
+  text-decoration: none;
+  /* margin-left:30px; */
+  border-right: 1px solid #444;
+  /* padding-right:20px; */
+  padding: 18px;
+}
+.links a:hover {
+  background-color: #eb4341;
+}
+.MuiSelect-selectMenu-165 {
+  height: 21px !important;
+}
+.MuiButton-sizeLarge-219 {
+  padding: 8px 121px !important;
+}
+.MuiPaper-rounded-12 {
+  border-radius: 0px !important;
+}
+.KidsCat-card-183 {
+  float: left;
+  margin-left: 15px;
+}
+/* .carousel *{
+    width:440px;
+} */
+.carousel .slide {
+  width: 440px !important;
+}
+.carousel.carousel-slider {
+  border-radius: 3px;
+}
+.MuiButton-root-195 {
+  min-width: 89px !important;
+}
+.Title {
+  padding-left: 20px;
+}
+.MuiDialogContent-root-248 {
+  padding: 0px 152px 33px !important;
+}
+.MuiInputBase-fullWidth-106 {
+  width: 300px !important;
+}
+.MuiFormControl-marginDense-141 {
+  margin-top: 0px !important;
+}
+/* .MuiDialog-paperWidthSm-242{
+    background-color: #eb4341 !important;
+} */
+.MuiDialogContent-root-264 {
+  padding: 0px 152px 33px !important;
+}
+.MuiDialogContent-root-296 {
+  padding: 0px 152px 33px !important;
+}
+.MuiDialogContent-root-328 {
+  padding: 0px 152px 33px !important;
+}
+.MuiDialogContent-root-312 {
+  padding: 0px 152px 33px !important;
+}
+/* .cat_cards{
+    margin-top:60px !important;
+} */
+.q {
+  padding: 10px;
+  /* padding-left:30px; */
+  /* padding-right:20px; */
+}
+.Title {
+  color: #eb4341;
+}
+.imgg {
+  padding-left: 99px;
+  width: 87vw;
+  height: 143px;
+  padding-top: 22px;
+}
+.imgg2 {
+  padding-left: 80px;
+  width: 87vw;
+  height: 143px;
+  padding-top: 22px;
+}
+.imgg3 {
+  padding-left: 80px;
+  width: 87vw;
+  height: 143px;
+  padding-top: 22px;
+}
+.carousel.carousel-slider {
+  height: 326px !important;
+}
+.kids {
+  width: 53vw !important;
+}
+
+.cat-header-link {
+  color: white;
+  font-weight: bolder !important;
+  font-family: monospace !important;
+  font-size: 18px !important;
+  margin: 0px 5px;
+}
+
+.cat-header-link:hover {
+  color: white;
+}
+
+.masterHeader-head {
+  margin: 20px 0 40px 0;
+}
+.masterHeader-mailLink {
+  color: black;
+  margin-top: 10px;
+}
+.masterHeader-mailLink:hover {
+  color: black;
+}

@@ -1,0 +1,83 @@
+.MuiTabs-root-222{
+    background-color:#333333 !important;
+    color: white !important;
+}
+.ComputingShop-root-221{
+    margin-top:31px !important;
+}
+.ComputingShop-root-221{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width:1160px !important;
+    height:841px !important;
+    padding-left:30px;
+}
+.MuiTypography-body1-51{
+    /* padding:0px !important; */
+    /* padding: 0px !important; */
+}
+.MuiTypography-root-42{
+    margin-left: 0px !important;
+}
+.MuiTypography-body1-51{
+    height:763px !important;
+    width:53vw !important;
+}
+.sideBar{
+    float:right;
+}
+.MuiTypography-body1-51{
+    float: left;
+}
+.sideBar img{
+    /* padding-left:4px; */
+    width:100%;
+    height:731px;
+    float: right;
+}
+.aLink{
+    background-color: #333333;
+    padding:20px;
+    padding-left:155px;
+    padding-right:155px;
+    color:white;
+    text-decoration: none;
+}
+.forComputing{
+    /* float: right; */
+    margin-left:289px;
+    background-color: #eb4341;
+    padding-left:111px;
+    padding-right:105px;
+    padding-top:18px;
+    font-weight: bold;
+}
+.aLink:hover{
+    background-color:#eb4341; 
+}
+.shop_heading{
+    width: 417px;
+    height: 58px;
+    float:right;
+}
+.ComputingShop-root-321{
+    width:87.5%;
+    /* padding-left:0px; */
+    margin-left: auto;
+    margin-right:auto;
+
+}
+.MuiTabs-root-322{
+    background-color: #333333;
+    color: white;
+    margin-left:26px;
+}
+.computing_shop{
+    margin-top:20px;
+    width: 100% !important; 
+    height: 841px;
+}
+.sideBar .shop-img{
+    width:386px;
+    margin-right:163px
+}

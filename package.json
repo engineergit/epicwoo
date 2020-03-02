@@ -1,0 +1,49 @@
+{
+  "name": "epic-woo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "antd": "^3.20.0",
+    "jsonwebtoken": "^8.5.1",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "mdbreact": "^4.13.0",
+    "notistack": "^0.8.2",
+    "react": "^16.8.6",
+    "react-chat-window": "^1.2.1",
+    "react-dom": "^16.8.6",
+    "react-image-magnify": "^2.7.4",
+    "react-leaf-carousel": "^1.2.2",
+    "react-pose": "^4.0.8",
+    "react-redux": "^7.1.0",
+    "react-responsive-carousel": "^3.1.49",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "socket.io-client": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "proxy": "http://localhost:5000",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

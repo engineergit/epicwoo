@@ -1,0 +1,13 @@
+.category_sec_heading{
+    background-color:#efefef;
+    font-size:28px;
+    font-family:monospace;
+    font-weight:bolder;
+    margin:0px 0 0 0;
+    padding:35px 0 40px 100px;
+}
+
+.cat_card_header{
+    background-color:#e8e8e8;
+    box-shadow: 1px 1px 1px 1px grey
+}

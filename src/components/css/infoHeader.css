@@ -1,0 +1,223 @@
+.MuiAppBar-colorDefault-8 {
+  background: #eb4341 !important;
+  color: white !important;
+}
+.MuiPaper-elevation4-17 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px 0px rgba(0, 0, 0, 0),
+    0px 0px 0px 0px rgba(0, 0, 0, 0) !important;
+}
+.MuiToolbar-gutters-39 {
+  padding-left: 114px !important;
+  padding-right: 100px !important;
+}
+.MuiButtonBase-root-120 {
+  margin: 5px !important;
+}
+.TopHeader-root-1 {
+  height: 40px !important;
+}
+/* .MuiPaper-root-11{
+    height:40px !important;
+} */
+.MuiToolbar-root-38 {
+  height: 40px !important;
+  padding-left: 40px;
+}
+.MuiToolbar-regular-40 {
+  min-height: 40px !important;
+}
+.MuiTypography-h6-59 {
+  font-size: 0.8rem !important;
+}
+.MuiTypography-root-42 {
+  margin-left: 120px !important;
+}
+.MuiTypography-h6-59 {
+  height: 20px !important;
+}
+.span,
+.span2 {
+  padding-left: 10px !important;
+  padding: 12px;
+  border-left: 1px solid #c93838 !important;
+  border-right: 1px solid #c93838 !important;
+}
+.span a {
+  color: white;
+}
+.span a:hover {
+  color: black;
+}
+.MuiTypography-h5-58 {
+  font-size: 0.8rem !important;
+}
+.CustomizedSwitches-fab-134 {
+  width: 48px !important;
+}
+.MuiFormControlLabel-root-145 {
+  width: 48px !important;
+}
+/* .haha{height:400px;} */
+.mode {
+  padding-top: -10px;
+  color: green;
+}
+.Cmode {
+  border-top: 1px solid green;
+  border-right: 1px solid green;
+  border-bottom: 1px solid green;
+  border-radius: 5px;
+  width: 80px;
+  padding: 5px;
+}
+/* .header{
+    margin-top:10px;
+    width:100%;
+    height:56px;
+    background-color:#333333;
+} */
+.SimpleSelect-formControl-137 {
+  /* padding-left:100px !important; */
+  margin: 0 !important;
+  min-width: 250px !important;
+}
+.MuiFormLabel-root-154 {
+  color: white !important;
+}
+.MuiMenuItem-root-217 {
+  color: white !important;
+}
+.MuiSelect-selectMenu-161 {
+  width: 300px !important;
+  /* padding-left:20px !important; */
+}
+.MuiInputLabel-outlined-151 {
+  padding-left: 100px !important;
+}
+.MuiToolbar-dense-41 {
+  background-color: #333333;
+  min-height: 58px !important;
+}
+.SimpleSelect-formControl-137 {
+  background-color: #eb4341 !important;
+}
+.kids,
+.Big {
+  width: 725px;
+  height: 374px;
+  margin-left: 98px;
+  margin-top: 25px;
+  float: left;
+}
+.carousell {
+  /* margin-top: 25px; */
+  /* margin-left:10px;  */
+  max-width: 30vw;
+  height: 373px !important;
+  float: left;
+  padding-top: 26px;
+  padding-left: 10px;
+}
+.infoHead {
+  width: 98.7vw;
+  height: 40px;
+}
+.cat_Head {
+  width: 98.7vw;
+  height: 58px;
+}
+.cat_caro {
+  width: 98.7vw;
+  height: 379px;
+}
+.cat_cards {
+  /* margin-left:75px; */
+  width: 98.7vw;
+  height: 445px;
+}
+.carousel.carousel-slider {
+  height: 328px;
+}
+.carousel .slider {
+  height: 328px;
+}
+.carousel .slide img {
+  height: 328px;
+}
+.kitchen_heading {
+  float: left;
+  text-align: center;
+  margin-left: -237px;
+  margin-top: 30px;
+  background-color: #eb4341;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 1.3em;
+}
+.computing_shop {
+  margin-left: 80.297px;
+  margin-right: 80.297px;
+  margin-top: 24px;
+  width: 87vw;
+  height: 841px;
+}
+.fashion {
+  margin-left: 80.297px;
+  margin-right: 80.297px;
+  margin-top: 24px;
+  width: 87vw;
+  height: 841px;
+}
+.upto50 {
+  widows: 100%;
+  height: 197px;
+}
+.upto80 {
+  widows: 100%;
+  height: 197px;
+}
+.upto70 {
+  widows: 100%;
+  height: 197px;
+}
+.brand_heading {
+  text-align: center;
+  background-color: #eb4341;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 1.3em;
+}
+.appliances {
+  margin-left: auto;
+  margin-right: auto;
+  width: 87vw;
+  margin-top: 24px;
+  height: 841px;
+}
+.brand_heading_head {
+  text-align: center;
+  height: 47px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.add_product_btn_head {
+  cursor: pointer;
+
+  margin-left: 120px;
+  margin-top: 20px;
+}
+.dropdown-formcontrol{
+  width:280px !important;
+  background-color:#ee413a !important
+}
+.dropdown-select{
+  color:white !important;
+  font-weight:bolder !important;
+  height:58px !important;
+  padding:6px !important;
+  font-family: monospace !important;
+  font-size:18px !important;
+}
+

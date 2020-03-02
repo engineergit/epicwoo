@@ -1,0 +1,133 @@
+.cardManager{
+    /* max-width: 345; */
+    width: 200px !important;
+    height: 370px;
+    text-align: center;
+    margin: 10px; 
+    position: relative;
+    /* border-radius:40px; */
+}
+.catCardManager{
+    /* max-width: 345; */
+    width: 255px !important;
+    height: 370px;
+    text-align: center;
+    margin: 10px; 
+    position: relative;
+    /* border-radius:40px; */
+
+}
+.cards  div button{
+    margin:0 !important;
+}
+.buyData{
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px;
+    width: 80%;
+    background: none;
+    border: 2px solid #333;
+    border-radius: 0px !important;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Oswald", serif;
+    font-weight: normal;
+    text-shadow: none;
+    font-size: 16px;
+    color: #333;
+    margin-top:20px;
+
+
+}
+.buyData:hover{
+    border:2px solid red; 
+    color: red;
+    
+}
+
+ .imagesContaner {
+    display: "flex";
+    min-Width: 450
+}
+
+
+.effects span{
+    
+
+/* padding: 10px; */
+color: #ee413a !important;
+font-size: 14px;
+margin: 5px 0px;
+box-shadow: 0px 0px 3px #999999;
+background: #fff;
+display: inline-block;
+width: 70%;
+}
+.effects{
+    position: absolute;
+    top: 100px;
+    left: 30px;
+    right:30px;
+    /* z-index:999; */
+}
+.CB9vby5YRbJWpv7hRrZ0x{
+    width:96% !important;
+}
+._1-Hp0TfFuBlCxtdPUf_zEF{
+    /* right: 80px !important; */
+}
+._2Nde-b7zBqxE2c-pX-RLQr{
+    width:92vw !important;
+    margin-left:65px;
+}
+.effects span{
+    visibility: hidden;
+}
+.cards:hover .effects span{
+visibility: visible;
+text-decoration: none;
+border-radius:4px;
+}
+.effects span:hover{
+    background-color: #ee413a;
+    color:white !important;
+    cursor: pointer;
+}
+/* .MuiButton-label-196{
+    width:160px !important;
+    border:1px solid #333;
+    padding: 10px;
+    border-radius:4px;
+} */
+.buyNowbtn:hover{
+    border:1px solid #ee413a;
+    color: #ee413a;
+}
+.buyNowbtn{
+    border:1px solid #333;
+    /* padding: 10px; */
+    padding-left:30%;
+    padding-right:30%;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:4px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.tag_head{
+
+    margin: 10px 0 0 12px;
+    text-align: left;
+}
+.price_title{
+    margin: 10px
+}
+.price_tag{
+    margin: 10px;
+    text-align: left;
+    font-weight: bolder;
+    color:#ee413a;
+}
+.add{
+    padding:10px;
+}
